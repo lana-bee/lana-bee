@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**lana-bee/lana-bee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="https://www.instagram.com/_l4naz/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png"           
+         alt="Instagram" 
+         width="40">
+</a>   <a href="https://wa.me/5511973786659" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png"
+         alt="WhatsApp"
+         width="40">
+</a>
